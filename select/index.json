@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Highway Star, Speed Star",
+  "base_artist": "Cymbals",
+  "createdAt": "2026-02-22T07:07:29.926132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Highway Star, Speed Star (Northern Bright Remix)",
+      "artist": "Cymbals",
+      "has_synced": true,
+      "path": "select/01_Highway_Star,_Speed_Star_(Northern_Bright_Remix)_Cymbals.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Highway Star, Speed Star",
+      "artist": "Cymbals",
+      "has_synced": false,
+      "path": "select/pl_01_Highway_Star,_Speed_Star_Cymbals.txt"
+    }
+  ]
+}
